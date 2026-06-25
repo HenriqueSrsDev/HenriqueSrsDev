@@ -71,16 +71,6 @@
 
 🔹 Portfólio Pessoal
 
-🔹 Sistema Bancário em Java
-
-🔹 Projeto de Microsserviços
-
-🔹 CRUD com React
-
-🔹 Estudos de Banco de Dados
-
-🔹 Estruturas de Dados
-
 ---
 
 ## 📊 Estatísticas
